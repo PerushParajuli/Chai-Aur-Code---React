@@ -13,3 +13,4 @@ git push -u origin main
 git remote add origin git@github.com:PerushParajuli/Chai-Aur-Code---React.git
 git branch -M main
 git push -u origin main -->
+cls
